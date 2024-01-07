@@ -46,4 +46,10 @@ TODO: add snippets to configure renovate on a companion project
 
 ---
 
+# Links
+
+* https://docs.renovatebot.com/
+
+---
+
 # Q&A
