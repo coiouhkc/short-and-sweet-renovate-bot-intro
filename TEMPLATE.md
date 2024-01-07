@@ -1,12 +1,10 @@
 ---
 marp: true
-title: Short and sweet
-description: Short and sweet
+title: Short and sweet Renovate intro
+description: Short and sweet Renovate intro
 theme: uncover
 paginate: true
 _paginate: false
-header: "**Name Surname** Short and Sweet"
-footer: "![image height:32px](https://i.picsum.photos/id/421/200/32.jpg?hmac=vqPQvcRzQRThfBK-Hj8n-PlZJsL8eG1zRTwk5hit1L0)"
 
 
 
@@ -14,28 +12,37 @@ footer: "![image height:32px](https://i.picsum.photos/id/421/200/32.jpg?hmac=vqP
 
 # Short and sweet
 
-## Topic
+## Renovate (bot) intro
 
 ---
 
 # Intro, reason & background
 
+  * Keeping dependencies up-to-date is hard/ a lot of effort depending on project size
+  * `LATEST` yields non-reproducible builds
+  * Log4Shell, etc.
+
+---
+
+# Maven
+
+See demo1-maven
+
+<!-- mvn versions:display-dependency-updates -->
+
+---
+
+# Renovate + GitHub
+
+See demo2-renovate
+
 <!--
-Some intro.
-Then some reason and background.
--->
+TODO: add snippets to configure renovate on a companion project
+ -->
 
 ---
 
-# Use case 1
-
----
-
-# Use case 2
-
----
-
-# Demo
+# Renovate + Azure DevOps
 
 ---
 
