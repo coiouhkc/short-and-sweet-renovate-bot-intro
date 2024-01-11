@@ -37,12 +37,14 @@ See demo1-maven
 See demo2-renovate
 
 <!--
-TODO: add snippets to configure renovate on a companion project
+docker run --rm -v "$(pwd)/config.js:/usr/src/app/config.js" -e RENOVATE_TOKEN=${TOKEN} renovate/renovate
  -->
 
 ---
 
 # Renovate + Azure DevOps
+
+See project demo (off-the-record)
 
 ---
 
