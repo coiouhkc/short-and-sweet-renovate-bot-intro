@@ -51,6 +51,7 @@ See project demo (off-the-record)
 # Links
 
 * https://docs.renovatebot.com/
+* https://www.mend.io/renovate/
 
 ---
 
