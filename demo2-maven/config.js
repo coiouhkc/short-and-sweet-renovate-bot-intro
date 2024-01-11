@@ -7,5 +7,5 @@ module.exports = {
             "automerge": false
         },
     ],
-    repositories: ['coiouhkc/monthly-balancing'],
+    repositories: ['coiouhkc/short-and-sweet-renovate-intro-demo'],
 };
